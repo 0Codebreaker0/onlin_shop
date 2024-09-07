@@ -1,0 +1,62 @@
+p{
+      font-family: "Handjet", sans-serif;
+      font-optical-sizing: auto;
+}
+
+.main {
+      width: 50%;
+      box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+      margin-top: 45px;
+      padding: 10px;
+
+
+}
+
+h2 {
+      font-family: "SUSE", sans-serif;
+
+}
+
+input {
+      margin-bottom: 10px;
+      width: 55%;
+      padding: 2px;
+      font-family: "SUSE", sans-serif;
+      font-size: 15px;
+      font-weight: bold;
+}
+
+button {
+      border: none;
+      padding: 7px;
+      width: 40%;
+      font-weight: bold;
+      font-size: 13px;
+      background-color: rgb(122 181 29);
+      cursor: pointer;
+      font-family: "SUSE", sans-serif;
+      margin-bottom: 20px;
+}
+
+label {
+      border: none;
+      padding: 7px;
+      width: 30%;
+      font-weight: bold;
+      font-size: 13px;
+      background-color: #065ea5;
+      cursor: pointer;
+      font-family: "SUSE", sans-serif;
+      margin-bottom: 20px;
+      color: white;
+}
+
+a {
+      text-decoration: none;
+      font-family: "SUSE", sans-serif;
+      font-size: 18px;
+      color: #ed7f06;
+      font-weight: bold;
+
+
+}
